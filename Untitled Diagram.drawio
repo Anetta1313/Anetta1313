@@ -1,1 +1,79 @@
-<mxfile host="app.diagrams.net" modified="2022-04-03T10:24:26.679Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" version="17.4.0" etag="DRHN7bS0f_OcaYZEpOkd" type="github"><diagram id="G_QziHxkWVlu0A3kxlXd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-04-03T13:31:30.222Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/100.0.4896.60 Safari/537.36" etag="tJDF1TLJCa9HlXqHAj1Z" version="17.4.0" type="github">
+  <diagram id="G_QziHxkWVlu0A3kxlXd" name="Page-1">
+    <mxGraphModel dx="1139" dy="749" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-3" value="Учебный центр &#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="90" y="270" width="130" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-4" value="+название" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-3">
+          <mxGeometry y="30" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-5" value="+адрес" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-3">
+          <mxGeometry y="60" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-6" value="+телефон" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-3">
+          <mxGeometry y="90" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-12" value="Студент" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=26;fillColor=none;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="500" width="160" height="104" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-14" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-12">
+          <mxGeometry y="26" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-13" value="+ имя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-12">
+          <mxGeometry y="52" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-15" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=top;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-12">
+          <mxGeometry y="78" width="160" height="26" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-18" value="Методист&#xa;+имя&#xa;" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=50;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;align=center;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="408" y="260" width="180" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-19" value="+добавть преподавателя" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-18">
+          <mxGeometry y="50" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-20" value="+сздать/удалить преподаваеля" style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-18">
+          <mxGeometry y="80" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-21" value="+создать группу " style="text;strokeColor=none;fillColor=none;spacingLeft=4;spacingRight=4;overflow=hidden;rotatable=0;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;fontSize=12;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-18">
+          <mxGeometry y="110" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-22" value="" style="shape=flexArrow;endArrow=classic;html=1;rounded=0;endWidth=12;endSize=6.34;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="XO_tC2_TJ7MmgfRz-NDF-19">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="280" y="370" as="sourcePoint" />
+            <mxPoint x="230" y="325" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="350" y="325" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-23" value="Преподаватель" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="320" y="500" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-24" value="+имя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-23">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-25" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-23">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-26" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-23">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-27" value="Бухгалтерия" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;" vertex="1" parent="1">
+          <mxGeometry x="500" y="500" width="140" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-28" value="+имя" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-27">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-29" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-27">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="XO_tC2_TJ7MmgfRz-NDF-30" value="+" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;" vertex="1" parent="XO_tC2_TJ7MmgfRz-NDF-27">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
