@@ -5,6 +5,6 @@
 - 📫 How to reach me anna.moxoreva@mail.ru
 
 <!---
-Anetta1313/Anetta1313 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Moxoreva/ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
