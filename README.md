@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Anetta1313
+- 👋 Hi, I’m @Anetta13
 - 👀 I’m interested in bizness analyst
 - 🌱 I’m currently learning manual software testing
 - 💞️ I’m looking to collaborate on IT company
